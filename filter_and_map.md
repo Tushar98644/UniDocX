@@ -4,7 +4,7 @@
 
 #### Eg - array = [1,2,3,4,5]
 
- const copy = `array.map((item){ return item })`
+ const copy = `array.map(function(item){ return item })` <br>
  const copy =  `array.map((item)=>{ return item })`
 
  console.log(d) --> `[1,2,3,4,5]`
