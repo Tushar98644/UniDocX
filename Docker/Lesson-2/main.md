@@ -44,6 +44,8 @@ If we start a container and want to run another process within that container , 
 
 <img width="1204" alt="Screenshot 2023-08-16 at 7 03 47 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/a901d245-e1a3-4b30-9fa5-c34a945a50ea">
 
+<img width="1146" alt="Screenshot 2023-08-16 at 7 19 00 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/8b3870df-3557-42df-9d88-b9a0353920a9">
+
  The -i option is set to keep STDIN attached (-i), which prevents the sh process from exiting immediately.
 
 The -d option (shorthand for --detach) sets the container to run in the background, in detached mode, with a pseudo-TTY attached (-t)
@@ -53,8 +55,3 @@ The -d option (shorthand for --detach) sets the container to run in the backgrou
 # Starting a shell 
 
 [Refer to this documentation](https://www.baeldung.com/ops/docker-container-shell)
-
-
-
-
-
