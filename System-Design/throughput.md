@@ -10,6 +10,10 @@ _Throughput refers to the rate at which a system or process can complete a certa
 
 _Congestion occurs when the demand for resources exceeds the available capacity or when there's a bottleneck in the system. This bottleneck might happen due to various reasons like limited bandwidth in a network, high utilization of resources, or inefficiencies in processing data._
 
+## Protocol Overhead 
+
+_Protocol overhead refers to the extra data or information added to messages or packets when they're sent over a network due to the communication protocols used. It's the additional bits of data that accompany the actual useful information being transmitted._
+
 ## Increasing Throughput 
 
 <img width="1440" alt="Screenshot 2023-12-31 at 1 18 13 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/ccdf6358-07ac-4bfb-89c9-b0544c0e7326">
