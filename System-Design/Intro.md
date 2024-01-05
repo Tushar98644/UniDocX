@@ -1,3 +1,7 @@
+# Roadmap
+
+  _[Click here for the roadmap](https://whimsical.com/system-design-roadmap-31C9vnRRATGW5Q95Krdciu)_
+  
 # HLD and LLD 
 
 _HLD (High-Level Design) and LLD (Low-Level Design) are two stages in the process of designing a system or software, each focusing on different levels of detail._
