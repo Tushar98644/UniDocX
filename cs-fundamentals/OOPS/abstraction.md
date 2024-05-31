@@ -1,0 +1,13 @@
+<img width="1376" alt="Screenshot 2024-05-31 at 9 17 24 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/382bf81e-b1f6-4a1a-a286-08d99cb3046f">
+<img width="1381" alt="Screenshot 2024-05-31 at 9 17 53 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/a8312f98-f557-4f67-b03e-ded49ac62aa7">
+<img width="1381" alt="Screenshot 2024-05-31 at 9 18 30 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/392035e5-ac76-4031-bd0a-61d3656e250f">
+<img width="1376" alt="Screenshot 2024-05-31 at 9 18 56 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/92a67df6-14a9-421b-9b02-b84e11436745">
+<img width="1372" alt="Screenshot 2024-05-31 at 9 20 38 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/545bdb16-d451-4efa-a481-cf9b15209e4c">
+<img width="1375" alt="Screenshot 2024-05-31 at 9 19 43 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/05f26d2a-570e-4287-a591-207225c51cb6">
+<img width="1375" alt="Screenshot 2024-05-31 at 9 20 02 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/a04d9aae-cc8b-4622-80ae-72c03561c6a5">
+<img width="1383" alt="Screenshot 2024-05-31 at 9 21 39 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/d12eded5-eebf-4b2a-9e14-03fe4b80d704">
+<img width="1380" alt="Screenshot 2024-05-31 at 9 22 02 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/faf68372-7350-47b6-b1c1-80bf3caa2e12">
+<img width="1375" alt="Screenshot 2024-05-31 at 9 22 42 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/0fee32dd-29f3-4d98-a325-b9208b554204">
+<img width="1379" alt="Screenshot 2024-05-31 at 9 23 32 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/af6efd0c-09cc-4ebe-94f8-abef4de5e004">
+<img width="1374" alt="Screenshot 2024-05-31 at 9 24 10 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/c510f9e8-0db7-42ed-ba57-33941dbd3fb0">
+<img width="1376" alt="Screenshot 2024-05-31 at 9 24 34 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/fb8e5d9b-b2d6-41e6-acaf-c9b1e5064c29">
