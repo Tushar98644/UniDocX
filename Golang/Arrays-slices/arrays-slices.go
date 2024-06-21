@@ -7,6 +7,7 @@ import (
 
 func Arrays() {
 	array := [3]int32{4, 5, 6}
+	array[2] = 1;
 	fmt.Println("Array :",array);
 }
 

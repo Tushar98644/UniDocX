@@ -4,8 +4,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Tushar98644/UniDocx/Golang/Arrays-slices"
+	"github.com/Tushar98644/UniDocx/Golang/arrays-slices"
 	"github.com/Tushar98644/UniDocx/Golang/functions"
+	"github.com/Tushar98644/UniDocx/Golang/maps-loops"
 )
 
 func main() {
@@ -25,5 +26,9 @@ func main() {
 	// arrays and slices
 	array_slice.Arrays();
 	array_slice.Slice();
-    
+
+	// maps
+	map_loop.Maps();
+	map_loop.Loops();
+        
 }
