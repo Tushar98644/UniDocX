@@ -4,16 +4,26 @@ import (
 	"fmt"
 	"log"
 
+	"github.com/Tushar98644/UniDocx/Golang/Arrays-slices"
 	"github.com/Tushar98644/UniDocx/Golang/functions"
 )
 
-func main(){
-	fmt.Println("This is the start of the program");
+func main() {
+	fmt.Println("This is the start of the program")
 
-	division,multiplication,err := functions.Opertion(11,0);
-	if err!= nil{
-		fmt.Println(err.Error());
-		log.Fatal();
+	// functions
+	division, multiplication, err := functions.Opertion(11, 3);
+
+	switch {
+	case err != nil:
+		fmt.Println(err.Error())
+		log.Fatal()
+	default:
+		fmt.Printf("The divission is %v and the multipliacation is %v \n", division, multiplication)
 	}
-	fmt.Printf("The divission is %v and the multipliacation is %v", division,multiplication);
+
+	// arrays and slices
+	array_slice.Arrays();
+	array_slice.Slice();
+    
 }
