@@ -4,13 +4,15 @@
 #include "ILogger.hpp"
 #include <string>
 
+using namespace std;
+
 class Report {
 private:
     const ILogger& logger;
 
 public:
     Report(const ILogger& logger);
-    void generateReport(const std::string& data);
+    void generateReport(const string& data);
 };
 
 #endif

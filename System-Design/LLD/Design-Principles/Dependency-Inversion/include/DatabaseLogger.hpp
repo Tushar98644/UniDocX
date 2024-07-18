@@ -3,9 +3,11 @@
 
 #include "ILogger.hpp"
 
+using namespace std;
+
 class DatabaseLogger : public ILogger {
 public:
-    void log(const std::string& message) const override;
+    void log(const string& message) const override;
 };
 
 #endif
