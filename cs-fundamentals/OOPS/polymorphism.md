@@ -15,3 +15,5 @@
 <img width="1398" alt="Screenshot 2024-05-22 at 4 59 57 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/7cd94a5e-ba05-4df6-bab7-9c2e4f37132b">
 <img width="1396" alt="Screenshot 2024-05-22 at 5 00 26 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/0f227bf1-83f0-4605-b758-30d1bd400fcb">
 <img width="1439" alt="Screenshot 2024-05-22 at 5 01 09 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/cb8c71fd-3e6b-431f-a0f2-e734d43f0993">
+<img width="1440" alt="Screenshot 2024-10-24 at 5 01 10 PM" src="https://github.com/user-attachments/assets/a1ab013c-60e8-46d6-b8a5-2780929e471d">
+
