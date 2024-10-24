@@ -1,5 +1,5 @@
 # Intro
-<img width="1385" alt="Screenshot 2024-05-22 at 1 13 46 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/cb38fd37-20d6-4a6d-8914-f57691e13401">
+<img width="1440" alt="Screenshot 2024-10-24 at 5 15 53 PM" src="https://github.com/user-attachments/assets/0ad844fb-0c34-467c-b8b1-32c551dd58da">
 <img width="1309" alt="Screenshot 2024-05-31 at 9 02 28 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/8331e3e5-1f4d-46f8-b0aa-6cfeb5082672">
 <img width="1386" alt="Screenshot 2024-05-31 at 9 03 23 PM" src="https://github.com/Tushar98644/UniDocX/assets/107763774/ae5d8312-745c-4df7-b765-613b0b582202">
 
